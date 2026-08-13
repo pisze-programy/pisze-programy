@@ -9,14 +9,14 @@
 
 > hey agent, build me a 1B$ app, be concise and precise, make no mistakes
 
-- [**www.noslopjobs.com**](https://github.com/pisze-programy/noslopjobs.com) - hey claude, find my a job via MCP - 50k+ offers -> scoring -> feedback
-- [**PanPeryskop**](https://github.com/pisze-programy/PanPeryskop) - Periscope 2.0, iPhone mobile app
+- [**www.noslopjobs.com**](https://github.com/pisze-programy/noslopjobs.com) - hey claude, find my a job but no slop jobs please! MCP for 10k+ offers -> scoring -> feedback
+- [**PanPeryskop**](https://github.com/pisze-programy/PanPeryskop) - Periscope ios app, city events and live streaming 
 
 
 > hey agent, build me tools I wish I had
 
 - [**Parakeet STT**](https://github.com/pisze-programy/parakeet-coreml-ios) - STT library optimized for OpenWhisper
-- [**OpenWhisper**](https://github.com/pisze-programy/openWhisper) - Voice Dictation, WisprFlow but opensource and on steroids (\w translations, style formatting)
+- [**OpenWhisper**](https://github.com/pisze-programy/openWhisper) - Voice Dictation, WisprFlow but opensource and on steroids (w/ translations & style formatting)
 - [**Article tldr web ext**](https://github.com/pisze-programy/tldr-webext) - Pretty smart tool - article highlights
 - [**code preview 2 image**](https://github.com/pisze-programy/code-preview-2-image) - x.com code2image with Apple styles
 
@@ -40,13 +40,13 @@
 > DHH, 09/08/2026
 
 
-## love it
+> Philosophy in one line: let machines check the facts and the structure; let the AI only write the words
 
 - [**opencode**](https://github.com/anomalyco/opencode) - The open source coding agent
 - [**pi**](https://github.com/earendil-works/pi) - AI agent toolkit
-- [**WebStorm**](https://www.jetbrains.com/webstorm/) - JavaScript and TypeScript IDE
-- [**PyCharm**](https://www.jetbrains.com/webstorm/) - Python IDE
 - [**Tmux**](https://github.com/tmux/tmux) - terminal multiplexer
+- [**Ollama**](https://github.com/ollama/ollama) - open models
+- [**Open WebUI**](https://github.com/open-webui/open-webui) - AI interface
 
 <div align="center">
   <a href="https://www.piszeprogramy.pl">Website</a>
