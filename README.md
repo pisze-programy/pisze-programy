@@ -10,13 +10,12 @@
 > hey agent, build me a 1B$ app, be concise and precise, make no mistakes
 
 - [**www.noslopjobs.com**](https://github.com/pisze-programy/noslopjobs.com) - hey claude, find my a job but no slop jobs please! MCP for 10k+ offers -> scoring -> feedback
+- [**OpenWhisper**](https://github.com/pisze-programy/openWhisper) - Voice Dictation, WisprFlow but opensource and on steroids (w/ translations & style formatting)
 - [**PanPeryskop**](https://github.com/pisze-programy/PanPeryskop) - Periscope ios app, city events and live streaming 
-
 
 > hey agent, build me tools I wish I had
 
 - [**Parakeet STT**](https://github.com/pisze-programy/parakeet-coreml-ios) - STT library optimized for OpenWhisper
-- [**OpenWhisper**](https://github.com/pisze-programy/openWhisper) - Voice Dictation, WisprFlow but opensource and on steroids (w/ translations & style formatting)
 - [**Article tldr web ext**](https://github.com/pisze-programy/tldr-webext) - Pretty smart tool - article highlights
 - [**code preview 2 image**](https://github.com/pisze-programy/code-preview-2-image) - x.com code2image with Apple styles
 
