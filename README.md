@@ -6,13 +6,13 @@
   </p>
 </div>
 
-> hey agent, build me a 1B$ app, be concise and precise, make no mistakes
+> **hey agent, build me a 1B$ app, be concise and precise, make no mistakes**
 
 - [**PanPeryskop**](https://github.com/pisze-programy/PanPeryskop) - Periscope iOS app, city events and live streaming 
 - [**OpenWhisper**](https://github.com/pisze-programy/openWhisper) - Voice Dictation, WisprFlow but opensource and on steroids (w/ translations & style formatting)
 - [**noslopjobs.com**](https://github.com/pisze-programy/noslopjobs.com) - hey claude, find my a job but no slop jobs please! MCP for 10k+ offers -> scoring -> feedback
 
-> hey agent, build me tools I wish I had
+> **hey agent, build me tools I wish I had**
 
 - [**Parakeet STT**](https://github.com/pisze-programy/parakeet-coreml-ios) - STT library optimized for OpenWhisper
 - [**CF-Snitch**](https://github.com/pisze-programy/cf-snitch) - Headless email service for Cloudflare cron jobs
@@ -20,7 +20,7 @@
 - [**code preview 2 image**](https://github.com/pisze-programy/code-preview-2-image) - x.com code2image with Apple styles
 
 
-> hey agent, what does working in 2026 look like?
+> **hey agent, what does working in 2026 look like?**
 
 
 > "I don't review code written by agents.
