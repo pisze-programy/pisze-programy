@@ -2,7 +2,6 @@
   <h1>Chris</h1>
   <p><strong>Senior Software Engineer, building the tools I wish I had</strong></p>
   <p>
-    12 years of typing semicolons just to become a babysitter for local AI</br>while my electricity bill skyrockets.</br>Setup is dialed in but I am still mindblown by what SWE looks like now</br></br>
     <b>Token burn (avg): 12B/m, (~400M/d)</b>
   </p>
 </div>
@@ -38,15 +37,6 @@
 > **What a time to be alive**"
 > 
 > DHH, 09/08/2026
-
-
-> Philosophy in one line: let machines check the facts and the structure; let the AI only write the words
-
-- [**opencode**](https://github.com/anomalyco/opencode) - The open source coding agent
-- [**pi**](https://github.com/earendil-works/pi) - AI agent toolkit
-- [**Tmux**](https://github.com/tmux/tmux) - terminal multiplexer
-- [**Ollama**](https://github.com/ollama/ollama) - open models
-- [**Open WebUI**](https://github.com/open-webui/open-webui) - AI interface
 
 <div align="center">
   <a href="https://www.piszeprogramy.pl">Website</a>
