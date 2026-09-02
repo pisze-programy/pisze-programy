@@ -15,7 +15,7 @@
 
 - [**Parakeet STT**](https://github.com/pisze-programy/parakeet-coreml-ios) - STT library optimized for OpenWhisper
 - [**CF-Snitch**](https://github.com/pisze-programy/cf-snitch) - Headless email service for Cloudflare cron jobs
-- [**CapsAwake**](https://github.com/pisze-programy/noslopjobs.com) - macOS app, closed-lid keep-awake switch
+- [**CapsAwake**]([https://github.com/pisze-programy/noslopjobs.com](https://github.com/pisze-programy/CapsAwake/)) - macOS app, closed-lid keep-awake switch
 - [**Article tldr web ext**](https://github.com/pisze-programy/tldr-webext) - Pretty smart tool - article highlights
 - [**code preview 2 image**](https://github.com/pisze-programy/code-preview-2-image) - x.com code preview generator with Apple styles
 
